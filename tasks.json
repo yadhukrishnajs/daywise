@@ -1,0 +1,53 @@
+[
+    {
+        "description": "Push/Pull workout & 3km run",
+        "type": "daily",
+        "completed": true
+    },
+    {
+        "description": "Practice Python & pytest unit testing",
+        "type": "daily",
+        "completed": true
+    },
+    {
+        "description": "Read 15 pages of a book",
+        "type": "daily",
+        "completed": true
+    },
+    {
+        "description": "Submitt CS50P documentation",
+        "type": "future",
+        "date": "2026-10-25",
+        "completed": true
+    },
+    {
+        "description": "Test ESP32 microcontroller setup",
+        "type": "future",
+        "date": "2026-10-25",
+        "completed": false
+    },
+    {
+        "description": "Renew domain registration",
+        "type": "future",
+        "date": "2026-11-15",
+        "completed": false
+    },
+    {
+        "description": "Attend dentist appointment",
+        "type": "future",
+        "date": "2026-11-02",
+        "completed": false
+    },
+    {
+        "description": "submit cs50p project",
+        "type": "future",
+        "date": "2026-11-28",
+        "completed": false
+    },
+    {
+        "description": "run 20 km",
+        "type": "future",
+        "date": "2026-12-22",
+        "completed": false
+    }
+]
